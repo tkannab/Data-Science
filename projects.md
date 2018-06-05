@@ -1,12 +1,3 @@
----
-layout: archive
-classes: wide
-permalink: /projects/
-title: "My Projects"
-author_profile: true
-
----
-
 ### [Create Tableau Story](https://github.com/tkannab/Udacity-DAND-T2-P4-Tableau-Story)
 - **Class**: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Udacity.
 - **Keyword(s)**: Data Visualization, Tableau, Result Communication, Explanatory Data Analysis, [Peer-To-Peer Lending](https://en.wikipedia.org/wiki/Peer-to-peer_lending).
