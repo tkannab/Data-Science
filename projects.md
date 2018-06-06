@@ -1,11 +1,11 @@
 ### [Create Tableau Story](https://github.com/tkannab/Udacity-DAND-T2-P4-Tableau-Story)
 - **Class**: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Udacity.
-- **Keyword(s)**: Data Visualization, Tableau, Result Communication, Explanatory Data Analysis, [Peer-To-Peer Lending](https://en.wikipedia.org/wiki/Peer-to-peer_lending).
+- **Keyword(s)**: [Data Visualization](https://en.wikipedia.org/wiki/Data_visualization), [Tableau](https://www.tableau.com/), Explanatory Data Analysis, [Peer-To-Peer Lending](https://en.wikipedia.org/wiki/Peer-to-peer_lending).
 - **External link(s)**: Please click [here](https://public.tableau.com/profile/toufik.kannab#!/vizhome/DAND-T2-P4/Prosper) to navigate to the project's data visualization on Tableau public.
 
 ### [Wrangle and Analyze Data](https://github.com/tkannab/Udacity-DAND-T2-P3-DW)
 - **Class**: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Udacity.
-- **Keyword(s)**: [Data Wrangling](https://en.wikipedia.org/wiki/Data_wrangling), Python, [Pandas](https://pandas.pydata.org/), [Numpy](http://www.numpy.org/), [Regular Expressions](https://docs.python.org/3/library/re.html), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), Data files, JSON, [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/), Twitter API, [Python Requests](http://docs.python-requests.org/en/master/), Gathering Data, Assessing Data, Cleaning Data, [tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis), Result Communication.
+- **Keyword(s)**: [Data Wrangling](https://en.wikipedia.org/wiki/Data_wrangling), Python, [Pandas](https://pandas.pydata.org/), [Numpy](http://www.numpy.org/), [Regular Expressions](https://docs.python.org/3/library/re.html), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [JSON](https://www.json.org/), [Tweepy](http://tweepy.readthedocs.io/en/v3.5.0/), Twitter API, [Python Requests](http://docs.python-requests.org/en/master/), [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html), [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis).
 
 ### [Explore and Summarize Data](https://github.com/tkannab/Udacity-DAND-T2-P2-EDA)
 - **Class**: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Udacity.
@@ -34,7 +34,7 @@
 
 ### [Explore Weather Trends](https://github.com/tkannab/Udacity-DAND-T1-P1-ExpWthrTrnds)
 - **Class**: [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) - Udacity.
-- **Keyword(s)**: SQL, MS Excel, CSV files, Pivot Tables, Data Aggregation, Data Visualizations.
+- **Keyword(s)**: SQL, MS Excel, CSV files, Pivot Tables, Data Aggregation, [Data Visualization](https://en.wikipedia.org/wiki/Data_visualization).
 
 ---
 Please click [here](https://github.com/tkannab/Data-Science-Summary) to go back to the Summary page.  
