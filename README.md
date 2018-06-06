@@ -1,4 +1,4 @@
 ### Summary of my data science projects and activities
 - [Projects](https://github.com/tkannab/Data-Science-Summary/blob/master/projects.md)
 - [MOOCs](https://github.com/tkannab/Data-Science-Summary/blob/master/MOOCs.md)
-- [Acitivites](https://github.com/tkannab/Data-Science-Summary/blob/master/Activities.md)
+- [Activites](https://github.com/tkannab/Data-Science-Summary/blob/master/Activities.md)
