@@ -51,6 +51,6 @@
 - More information on the course can be found [here](https://www.coursera.org/learn/datasciencemathskills).
 
 ---
-Please click [here](https://github.com/tkannab/Data-Science-Summary) to go to the Summary page.  
-Please click [here](https://github.com/tkannab/Data-Science-Summary/blob/master/projects.md) to go to the Projects page.  
-Please click [here](https://github.com/tkannab/Data-Science-Summary/blob/master/Activities.md) to go to the Activities page.
+Please click [here](https://github.com/tkannab/Data-Science-Summary) to go back to the Summary page.  
+Please click [here](https://github.com/tkannab/Data-Science-Summary/blob/master/projects.md) to go back to the Projects page.  
+Please click [here](https://github.com/tkannab/Data-Science-Summary/blob/master/Activities.md) to go back to the Activities page.
