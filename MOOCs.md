@@ -10,19 +10,19 @@
 
 ### [How Google does Machine Learning (Course 1 of 5 in the Machine Learning with TensorFlow on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/Q36P6YBCM5TL)
 - **Provider**: Google Cloud Training (Coursera)
-- **Key skills covered**: Cloud Datalab, Google ML APIs (Vision API, Video intelligence API, Cloud Speech API, Translation and NL).
+- **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Google ML APIs (Vision API, Video intelligence API, Cloud Speech API, Translation and NL)](https://cloud.google.com/products/machine-learning/), [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp).
 - The Specialization is expected to be completed by **06/20/2018**.
 
 ### [Google Cloud Platform Big Data and Machine Learning Fundamentals (Course 1 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/7UP62ZZSZCNA)
 - **Provider**: Google Cloud Training (Coursera)
-- **Key skills covered**: CloudSQL, Cloud Dataproc, BigQuery, Cloud Datalab, Cloud SQL, BigTable, Datastore, and TensorFlow.
+- **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
 - More information on the course can be found [here](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals).
 - The Specialization is expected to be completed by **06/30/2018**.
 
 ### [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
 - **Provider**: Udemy
-- **Key skills covered**: TensorFlow, Convolutional Neural Networks, Time Series Analysis, Generative Adversarial Networks, Jupyter Notebook.
+- **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series), [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network), Jupyter Notebook.
 - More information on the course can be found [here](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/).
 
 ### [Scala and Spark for Big Data and Machine Learning](https://www.udemy.com/certificate/UC-L7RYSULB/)
