@@ -4,3 +4,5 @@
 - [Activities](https://github.com/tkannab/Data-Science-Summary/blob/master/Activities.md)
 
 - [My resume](https://github.com/tkannab/Data-Science/blob/master/Toufik%20Kannab%20Resume.pdf)
+
+- [My Udacity Profile](https://profiles.udacity.com/p/9765619476)
