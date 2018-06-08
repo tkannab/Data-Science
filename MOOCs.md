@@ -27,7 +27,7 @@
 
 ### [Scala and Spark for Big Data and Machine Learning](https://www.udemy.com/certificate/UC-L7RYSULB/)
 - **Provider**: Udemy
-- **Key skills covered**: Scala, Spark, Principal Component Analysis, Amazon Web Services.
+- **Key skills covered**: [Scala](https://www.scala-lang.org/), Spark, Principal Component Analysis, Amazon Web Services.
 - More information on the course can be found [here](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning).
 
 ### [R Programming: Advanced Analytics In R For Data Science](https://www.udemy.com/certificate/UC-GJWO8QI4/)
