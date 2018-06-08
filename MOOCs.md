@@ -17,7 +17,7 @@
 ### [Google Cloud Platform Big Data and Machine Learning Fundamentals (Course 1 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/7UP62ZZSZCNA)
 - **Provider**: Google Cloud Training (Coursera)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
-- More information on the course can be found [here](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals).
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
 - The Specialization is expected to be completed by **08/30/2018**.
 
 ### [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
