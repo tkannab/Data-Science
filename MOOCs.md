@@ -19,6 +19,12 @@
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/),[TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) , [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
+
+### [Feature Engineering (Course 4 of 5 in the Machine Learning with TensorFlow on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/UJKVTK3H85X8)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Feature Engineering](https://developers.google.com/machine-learning/crash-course/representation/feature-engineering), [Apache Beam](),[BigQuery](https://cloud.google.com/bigquery/),[Cloud Dataflow](), [Cloud Dataprep](), [Cloud Datalab](https://cloud.google.com/datalab/).
+- More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
+
 ### [Google Cloud Platform Big Data and Machine Learning Fundamentals (Course 1 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/7UP62ZZSZCNA)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
