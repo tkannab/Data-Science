@@ -3,12 +3,11 @@
 ### Course 4: Feature engineering
 
 #### [ML on GCP [v1.0] - C4 - MapReduce in Dataflow (Python)](https://googlecoursera.qwiklabs.com/focuses/14399)
-- **Lab Overview**:   
+
+**Overview**:   
 In this lab, you learn how to use pipeline options and carry out Map and Reduce operations in Dataflow.
 
-- **What you learn**:  
-In this lab, you learn how to:
-
+**Learning Objective(s)**:  
   - Use pipeline options in Dataflow
   - Carry out mapping transformations
   - Carry out reduce aggregations
@@ -18,55 +17,121 @@ In this lab, you learn how to:
 
 ### Course 1: Google Cloud Platform Big Data and Machine Learning Fundamentals
 
-#### Lab 4: [Setup rentals data in CloudSQL](https://codelabs.developers.google.com/codelabs/cpb100-cloud-sql/#0)
-- **Lab Overview**:  
+#### Lab 1: [Start Compute Engine instance](https://codelabs.developers.google.com/codelabs/cpb100-compute-engine/)
+
+**Overview**:
+In this lab you spin up a virtual machine, configure its security, and access it remotely.
+
+**Learning Objective(s)**:  
+- Create a Compute Engine instance with the necessary Access and Security
+- SSH into the instance
+- Install the software package Git (for source code version control)
+
+#### Lab 2: [Setup rentals data in Cloud SQL](https://codelabs.developers.google.com/codelabs/cpb100-cloud-sql/)
+
+**Overview**:
 In this lab you populate rentals data in Cloud SQL for the rentals recommendation engine to use.
 
-- **What you need**:  
-To complete this lab, you need:
+**Learning Objective(s)**:  
+- Create Cloud SQL instance
+- Create database tables by importing .sql files from Cloud Storage
+- Populate the tables by importing .csv files from Cloud Storage
+- Allow access to Cloud SQL
+- Explore the rentals data using SQL statements from CloudShell
 
-  - A project created on Google Cloud Platform [Lab 1]
-  - A Cloud Storage bucket created [Lab 2b]
+#### Lab 3: [Recommendations ML with Dataproc](https://codelabs.developers.google.com/codelabs/cpb100-dataproc/#0)
 
-- **What you learn**
-In this lab, you:
-
-  - Create Cloud SQL instance
-  - Create database tables by importing .sql files from Cloud Storage
-  - Populate the tables by importing .csv files from Cloud Storage
-  - Allow access to Cloud SQL
-  - Explore the rentals data using SQL statements from CloudShell
-
-#### Lab 5: [Recommendations ML with Dataproc](https://codelabs.developers.google.com/codelabs/cpb100-dataproc/#0)
-- **Lab Overview**:  
+**Overview**:  
 In this lab, you carry out recommendations machine learning using Dataproc.
 
 
-- **What you need**:  
-To complete this lab, you need:
-
-  - A Cloud SQL instance populated with rentals data [Lab 3a]
-  - A Cloud Shell terminal with the git repo corresponding to the labs [Lab 3a]
-
-- **What you learn**:  
-In this lab, you:
-
+**Learning Objective(s)**:  
   - Launch Dataproc
   - Run SparkML jobs using Dataproc
 
-#### Lab 6: [Create ML dataset with BigQuery](https://codelabs.developers.google.com/codelabs/cpb100-bigquery-dataset/)
-- **Lab Overview**:  
+#### Lab 4: [Create ML dataset with BigQuery](https://codelabs.developers.google.com/codelabs/cpb100-bigquery-dataset/)
+
+**Overview**:
 In this lab you use BigQuery from within Datalab to create a Pandas dataframe that will be the training data for predicting taxicab demand.
 
-
-- **What you need**:  
-To complete this lab, you need:
-
-  - A project created on Google Cloud Platform
-  - A launched Datalab instance
-
-- **What you learn**:  
-In this lab, you:
-
+**Learning Objective(s)**:  
   - Use BigQuery and Datalab to explore and visualize data
   - Build a Pandas dataframe that will be used as the training dataset for machine learning using TensorFlow
+
+#### Lab 5: [Machine Learning APIs](https://codelabs.developers.google.com/codelabs/cpb100-translate-api/)
+
+**Overview**:
+In this lab you use Machine Learning APIs from within Datalab.
+
+**Learning Objective(s)**:  
+  - Learn how to invoke ML APIs from Python and use their results.
+
+### Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+
+Lab 1: Create a Dataproc Cluster
+
+**Overview**:
+Structured data has a useful organization or schema. Unstructured data includes not only data that is without a schema, but also data that has some structure, but that structure is not useful for the intended analysis or query.
+
+In this lab you will create a Dataproc cluster and explore Hadoop operations. The cluster is customized for secure access, uses a bucket for initialization, and customized to use the Google Cloud API.
+
+**Learning Objective(s)**:  
+- Prepare a bucket for cluster initialization
+- Create a Dataproc Hadoop Cluster customized to use the Google Cloud API
+- Enable secure access to the Dataproc cluster
+- Explore Hadoop operations
+
+Lab 2: Work with structured and semi-structured data
+In this lab, you will explore the native Hadoop ecosystem tools used for working with structured and semi-structured data, Hive and Pig.
+
+
+**Overview**:
+Structured data has a useful organization or schema. Unstructured data includes not only data that is without a schema, but also data that has some structure, but that structure is not useful for the intended analysis or query.
+
+In this lab, you will explore the native Hadoop ecosystem tools used for working with structured and semi-structured data, Hive and Pig.
+
+**Learning Objective(s)**:  
+- Use the Hive CLI and run a Pig job
+- Hive is used for structured data, similar to SQL
+- Pig is used for semi-structured data, similar to SQL + scripting
+
+
+Lab 3: Submit Dataproc jobs for unstructured data
+
+**Overview**:
+Unstructured data includes data that is without a schema and data that has a structure, but which is not useful for the intended purpose.
+
+In this lab you will learn about Spark and the framework of Resilient Distributed Datasets (RDDs) and operations for working with big data and unstructured data.
+
+**Learning Objective(s)**:  
+- Explore HDFS and Cloud Storage
+- Use interactive PySpark to learn about RDDs, Operations, and Lambda functions
+
+Lab 4: Leverage GCP
+
+**Overview**:
+In this lab you will explore Spark using PySpark jobs, use Cloud Storage instead of HDFS, and run a PySpark application from Cloud Storage.
+
+**Learning Objective(s)**:  
+- Explore Spark using PySpark jobs
+- Using Cloud Storage instead of HDFS
+- Run a PySpark application from Cloud Storage
+- Using Python Pandas to add BigQuery to a Spark application
+
+
+Lab 5: Cluster automation using CLI commands
+
+**Overview**:
+In this lab, you will create a cluster using CLI commands and learn about the Dataproc-GCP workflow and workflow automation.
+
+**Learning Objective(s)**:  
+- Create a customized Dataproc cluster using Cloud Shell
+
+
+Lab 6: Add Machine Learning (ML)
+
+**Overview**:
+In this lab you will use the Google Cloud API to incorporate several machine learning services from the Natural Language API, including sentiment analysis and entity analysis, to produce meaningful results from unstructured data.
+
+**Learning Objective(s)**:  
+- Add Machine Learning (ML) to a Spark application

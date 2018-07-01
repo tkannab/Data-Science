@@ -31,6 +31,12 @@
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
 - The Specialization is expected to be completed by **08/30/2018**.
 
+### [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform (Course 2 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/5PZ6LDPQE5LS)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Hadoop](http://hadoop.apache.org/),[Spark](https://spark.apache.org/), [CloudML](https://cloud.google.com/ml-engine/)
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
+- The Specialization is expected to be completed by **08/30/2018**.
+
 ### [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
 - **Provider**: Udemy
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series), [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network), Jupyter Notebook.
