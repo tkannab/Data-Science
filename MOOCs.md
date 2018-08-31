@@ -3,41 +3,52 @@
 - **Key skills covered**: Python, R, SQL, Tableau, Exploratory Data Analysis.
 - More information on the nanodegree can be found [here](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-### [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/M5TJJUL6W8N7)
+### [Machine Learning](coursera.org/verify/M5TJJUL6W8N7)
 - **Provider**: Stanford Online (Coursera)
 - **Key skills covered**: Octave/Matlab, Machine Learning, Artificial Neural Network, Logistic Regression, Linear Regression.
 - More information on the course can be found [here](https://www.coursera.org/learn/machine-learning).
 
-### [How Google does Machine Learning (Course 1 of 5 in the Machine Learning with TensorFlow on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/Q36P6YBCM5TL)
+## Machine Learning with TensorFlow on Google Cloud Platform Specialization (5 Courses)
+### Course 1: [How Google does Machine Learning](coursera.org/verify/Q36P6YBCM5TL)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Google ML APIs (Vision API, Video intelligence API, Cloud Speech API, Translation and NL)](https://cloud.google.com/products/machine-learning/), [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp).
-- The Specialization is expected to be completed by **07/15/2018**.
 
-### [Intro to TensorFlow (Course 3 of 5 in the Machine Learning with TensorFlow on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/UJKVTK3H85X8)
+### Course 2: [Launching into Machine Learning](coursera.org/verify/GAUDBMXP4KES)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: Machine Learning, Deep Learning.
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp).
+
+### Course 3: [Intro to TensorFlow](coursera.org/verify/UJKVTK3H85X8)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/),[TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) , [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
 
-### [Feature Engineering (Course 4 of 5 in the Machine Learning with TensorFlow on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/UJKVTK3H85X8)
+### Course 4: [Feature Engineering](coursera.org/verify/EYXADKLWNGAZ)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Feature Engineering](https://developers.google.com/machine-learning/crash-course/representation/feature-engineering), [Apache Beam](),[BigQuery](https://cloud.google.com/bigquery/),[Cloud Dataflow](), [Cloud Dataprep](), [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
-### [Google Cloud Platform Big Data and Machine Learning Fundamentals (Course 1 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/7UP62ZZSZCNA)
+### Course 5: Art and Science of Machine Learning (In Process)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: Hyperparameter Tuning, L1/L2 Regularizations, Embeddings, Custom Estimators,[TensorFlow](https://www.tensorflow.org/), 
+- More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
+
+## Data Engineering on Google Cloud Platform Specialization
+### Course 1: [Google Cloud Platform Big Data and Machine Learning Fundamentals](coursera.orgverify/7UP62ZZSZCNA)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
 - The Specialization is expected to be completed by **08/30/2018**.
 
-### [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform (Course 2 of 5 in the Data Engineering on Google Cloud Platform Specialization)](https://www.coursera.org/account/accomplishments/certificate/5PZ6LDPQE5LS)
+### Course 2: [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform](coursera.org/verify/5PZ6LDPQE5LS)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Hadoop](http://hadoop.apache.org/),[Spark](https://spark.apache.org/), [CloudML](https://cloud.google.com/ml-engine/)
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
-- The Specialization is expected to be completed by **08/30/2018**.
 
-### [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
+## Udemy Courses:
+### Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
 - **Provider**: Udemy
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series), [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network), Jupyter Notebook.
 - More information on the course can be found [here](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/).
