@@ -21,7 +21,7 @@
 
 ## Coursera.org
 
-### [Machine Learning with TensorFlow on Google Cloud Platform Specialization](coursera.org/verify/specialization/2YPD7QM9KYM2)
+### [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YPD7QM9KYM2)
 #### Course 1: [How Google does Machine Learning](coursera.org/verify/Q36P6YBCM5TL)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Google ML APIs (Vision API, Video intelligence API, Cloud Speech API, Translation and NL)](https://cloud.google.com/products/machine-learning/), [Cloud Datalab](https://cloud.google.com/datalab/).
@@ -47,7 +47,7 @@
 - **Key skills covered**: Hyperparameter Tuning, L1/L2 Regularizations, Embeddings, Custom Estimators,[TensorFlow](https://www.tensorflow.org/), 
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
-### [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/MUATYWGJZVV7)
+### [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUATYWGJZVV7)
 #### Course 1: [Google Cloud Platform Big Data and Machine Learning Fundamentals](coursera.orgverify/7UP62ZZSZCNA)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
