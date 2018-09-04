@@ -21,7 +21,7 @@
 
 ## Coursera.org
 
-### Machine Learning with TensorFlow on Google Cloud Platform Specialization (5 Courses) - In process
+### [Machine Learning with TensorFlow on Google Cloud Platform Specialization](coursera.org/verify/specialization/2YPD7QM9KYM2)
 #### Course 1: [How Google does Machine Learning](coursera.org/verify/Q36P6YBCM5TL)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Google ML APIs (Vision API, Video intelligence API, Cloud Speech API, Translation and NL)](https://cloud.google.com/products/machine-learning/), [Cloud Datalab](https://cloud.google.com/datalab/).
@@ -42,12 +42,12 @@
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Feature Engineering](https://developers.google.com/machine-learning/crash-course/representation/feature-engineering), [Apache Beam](),[BigQuery](https://cloud.google.com/bigquery/),[Cloud Dataflow](), [Cloud Dataprep](), [Cloud Datalab](https://cloud.google.com/datalab/).
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
-#### Course 5: Art and Science of Machine Learning (In Process)
+#### Course 5: [Art and Science of Machine Learning](coursera.org/verify/C3FN3KY7N869)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: Hyperparameter Tuning, L1/L2 Regularizations, Embeddings, Custom Estimators,[TensorFlow](https://www.tensorflow.org/), 
 - More information on the specialization can be found [here](https://www.coursera.org/learn/intro-tensorflow).
 
-### Data Engineering on Google Cloud Platform Specialization (5 Courses) - In process
+### [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/MUATYWGJZVV7)
 #### Course 1: [Google Cloud Platform Big Data and Machine Learning Fundamentals](coursera.orgverify/7UP62ZZSZCNA)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Cloud SQL](https://cloud.google.com/sql/), [BigTable](https://cloud.google.com/bigtable/), [Datastore](https://cloud.google.com/datastore/).
@@ -57,6 +57,21 @@
 #### Course 2: [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform](coursera.org/verify/5PZ6LDPQE5LS)
 - **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
 - **Key skills covered**: [Cloud Dataproc](https://cloud.google.com/dataproc/), [BigQuery](https://cloud.google.com/bigquery/), [Cloud Datalab](https://cloud.google.com/datalab/), [Hadoop](http://hadoop.apache.org/),[Spark](https://spark.apache.org/), [CloudML](https://cloud.google.com/ml-engine/)
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
+
+#### Course 3: [Serverless Data Analysis with Google BigQuery and Cloud Dataflow](coursera.org/verify/ABVBUJ9Y6NQ2)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: [BigQuery](https://cloud.google.com/bigquery/), [Cloud DataFlow](https://cloud.google.com/dataflow/).
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
+
+#### Course 4: [Serverless Machine Learning with Tensorflow on Google Cloud Platform](coursera.org/verify/A32EVL2VPY53)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Cloud Machine Learning Engine](https://cloud.google.com/ml-engine/),[TensorBoard](https://www.tensorflow.org/programmers_guide/summaries_and_tensorboard) , [Cloud Datalab](https://cloud.google.com/datalab/)
+- More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
+
+#### Course 5: [Building Resilient Streaming Systems on Google Cloud Platform](coursera.org/verify/RW6UVN3CHPGE)
+- **Provider**: [Google Cloud Training (Coursera)](https://www.coursera.org/googlecloud)
+- **Key skills covered**: [BigQuery](https://cloud.google.com/bigquery/), [Cloud DataFlow](https://cloud.google.com/dataflow/), [Cloud Bigtable](https://cloud.google.com/bigtable/),[Cloud Datalab](https://cloud.google.com/datalab/)
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
 
 #### [Machine Learning](coursera.org/verify/M5TJJUL6W8N7)
