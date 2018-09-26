@@ -1,4 +1,4 @@
-## Completed Online Training
+## Online Training
 
 ### Summary: (*Please click the links below to see to the certificiates*)
 
