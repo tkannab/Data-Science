@@ -14,8 +14,6 @@
 
 ### Detailed Section:
 
-### Massachusetts Institute of Technology.
-
 #### MIT MicroMasters Program in Statistics and Data Science (in process)
 - **Provider**: MITx.
 - **Key skills covered**: Social Science, Machine Learning, Deep Learning, Statistics, Probability, Data Analysis.
@@ -27,15 +25,11 @@
 - More information on the course can be found [here](https://mitxpro.mit.edu/courses/course-v1:MITProfessionalX+DSx+2017_T2/about).
 
 
-### Udacity.com
-
 #### [Data Analyst Nano Degree (DAND)](https://confirm.udacity.com/DJTLPHQC)
 - **Provider**: Udacity
 - **Key skills covered**: Python, R, SQL, Tableau, Exploratory Data Analysis.
 - More information on the nanodegree can be found [here](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-
-### Coursera.org
 
 ### [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YPD7QM9KYM2)
 #### Course 1: [How Google does Machine Learning](coursera.org/verify/Q36P6YBCM5TL)
@@ -100,7 +94,6 @@
 - **Key skills covered**: Statistics, Bayesian, Graph Of A Function, Data Science.
 - More information on the course can be found [here](https://www.coursera.org/learn/datasciencemathskills).
 
-### Udemy.com:
 #### [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/certificate/UC-592ZQV15/)
 - **Provider**: Udemy
 - **Key skills covered**: [TensorFlow](https://www.tensorflow.org/), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network), [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series), [Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network), Jupyter Notebook.
