@@ -1,7 +1,7 @@
 ## Online Training
 
 ### Summary Section: 
-(*Please click the links below to see to the certificiates*)
+(*Please click the links below to see the associated certificiates*)
 
 - MIT MicroMasters Program in Statistics and Data Science (*in process*)
 - [Data Analyst Nano Degree (DAND)](https://confirm.udacity.com/DJTLPHQC)
