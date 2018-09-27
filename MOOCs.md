@@ -7,6 +7,7 @@
 - [Data Analyst Nano Degree (DAND)](https://confirm.udacity.com/DJTLPHQC)
 - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YPD7QM9KYM2)
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUATYWGJZVV7)
+- [Machine Learning](coursera.org/verify/M5TJJUL6W8N7)
 - [Data Science: Data to Insights](https://mitxpro.mit.edu/certificates/ad6c039f5d2840e8aa5fc710bb61a7cf)
 - [Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/KL8EMNZYNXRM)
 - [Scala and Spark for Big Data and Machine Learning](https://www.udemy.com/certificate/UC-L7RYSULB/)
