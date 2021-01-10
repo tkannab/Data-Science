@@ -7,7 +7,7 @@
 - [Data Analyst Nano Degree (DAND)](https://confirm.udacity.com/DJTLPHQC)
 - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YPD7QM9KYM2)
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUATYWGJZVV7)
-- [Machine Learning](https://coursera.org/share/a25f60fb14eaa01acf87a70f8c8074cd)
+- [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/M5TJJUL6W8N7)
 - [Data Science: Data to Insights](https://mitxpro.mit.edu/certificates/ad6c039f5d2840e8aa5fc710bb61a7cf)
 - [Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/KL8EMNZYNXRM)
 - [Scala and Spark for Big Data and Machine Learning](https://www.udemy.com/certificate/UC-L7RYSULB/)
@@ -86,7 +86,7 @@
 - **Key skills covered**: [BigQuery](https://cloud.google.com/bigquery/), [Cloud DataFlow](https://cloud.google.com/dataflow/), [Cloud Bigtable](https://cloud.google.com/bigtable/),[Cloud Datalab](https://cloud.google.com/datalab/)
 - More information on the specialization can be found [here](https://www.coursera.org/specializations/gcp-data-machine-learning).
 
-#### [Machine Learning](https://coursera.org/share/a25f60fb14eaa01acf87a70f8c8074cd)
+#### [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/M5TJJUL6W8N7)
 - **Provider**: Stanford Online (Coursera)
 - **Key skills covered**: Octave/Matlab, Machine Learning, Artificial Neural Network, Logistic Regression, Linear Regression.
 - More information on the course can be found [here](https://www.coursera.org/learn/machine-learning).
