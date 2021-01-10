@@ -3,7 +3,7 @@
 ### Summary Section: 
 (*Please click the links below to see the associated certificiation*)
 
-- MIT MicroMasters Program in Statistics and Data Science (*in process*)
+- [MIT MicroMasters Program in Statistics and Data Science](https://credentials.edx.org/credentials/462f27938eec458db65a33157ca257c6/)
 - [Data Analyst Nano Degree (DAND)](https://confirm.udacity.com/DJTLPHQC)
 - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2YPD7QM9KYM2)
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MUATYWGJZVV7)
