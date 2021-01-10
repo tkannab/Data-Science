@@ -16,7 +16,7 @@
 
 ### Detailed Section:
 
-#### MIT MicroMasters Program in Statistics and Data Science (in process)
+#### [MIT MicroMasters Program in Statistics and Data Science](https://credentials.edx.org/credentials/462f27938eec458db65a33157ca257c6/)
 - **Provider**: MITx.
 - **Key skills covered**: Social Science, Machine Learning, Deep Learning, Statistics, Probability, Data Analysis.
 - More information on the course can be found [here](https://micromasters.mit.edu/ds).
